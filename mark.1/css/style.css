@@ -1,0 +1,14 @@
+div{
+  background: yellow;
+  width: 150px;
+  height: 150px;
+  border: 3px;
+  border-color: black;
+  
+}
+
+span{
+  color: violet;
+  background: yellowgreen;
+  
+}
