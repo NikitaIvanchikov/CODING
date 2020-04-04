@@ -1,3 +1,46 @@
+body {
+  background: rgb(124, 44, 44);
+  color: #000;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  margin: 0;
+  padding: none;
+}
+
 div {
   background-color: aqua;
+}
+sidebar {
+  background: #40E0D0;
+  float: left;
+  width: 15%;
+  height: 750px;
+  margin: none;
+}
+
+header { 
+  width: 85%;
+  background-color: darkslategray;
+  float: left;
+  height: 150px;
+}
+
+article {
+float: left;
+width: 60%;
+height: 600px;
+background-color:palevioletred ;
+}
+rside {
+  float: left;
+  width: 25%;
+  height: 600px;
+  background-color: purple;
+}
+footer {
+	height: 44px;
+	clear: both;
+
+  background-color: salmon;
+	border-top: 5px solid #A6640E;
 }
