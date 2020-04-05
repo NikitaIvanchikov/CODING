@@ -1,46 +1,119 @@
 body {
-  background: rgb(124, 44, 44);
   color: #000;
-  font-family: Arial, sans-serif;
-  font-size: 14px;
+  font-family: 'Times New Roman', Times, serif, sans-serif;
+  font-size: 13px;
   margin: 0;
   padding: none;
+  background-color: white;
 }
 
 div {
   background-color: aqua;
 }
 sidebar {
-  background: #40E0D0;
+  background-color: whitesmoke;
   float: left;
-  width: 15%;
-  height: 750px;
-  margin: none;
+  width: 10%;
+  
+
 }
 
 header { 
-  width: 85%;
-  background-color: darkslategray;
+  width: 90%;
+  background: linear-gradient(0deg, whitesmoke, white); 
+  
   float: left;
-  height: 150px;
+  height: 100px;
 }
 
 article {
 float: left;
-width: 60%;
-height: 600px;
-background-color:palevioletred ;
-}
-rside {
-  float: left;
-  width: 25%;
-  height: 600px;
-  background-color: purple;
+width: calc(90% - 2px);
+
+text-align: justify;
+background-color: white;
+
 }
 footer {
 	height: 44px;
 	clear: both;
 
-  background-color: salmon;
-	border-top: 5px solid #A6640E;
+  background-color:whitesmoke;
+
+}
+
+#auth{
+  float: right;
+  list-style: none;
+  display: flex;
+  margin: 10px;
+  word-spacing: 5 px
+  
+}
+
+li {
+  margin-right: 10px;
+  list-style: none;}
+#pan {
+  float: left;
+  display :flex;
+  list-style: none;
+  position: sticky;
+  top: 115px;
+  
+}
+#search {
+  float: right;
+  display :flex;
+  list-style: none;
+position: sticky;
+  top: 115px;
+  
+  left: 65%;
+
+}
+#logo {
+  size: 100%;
+}
+a {
+  
+  text-decoration: none;
+  color: blue;
+
+}
+a:hover {
+  color: blue;
+  text-decoration: underline;
+
+}
+h3 {
+  font-size: 12px;
+  color: rgb(99, 95, 95);
+  margin-left: 5%;
+}
+#italic {
+  font-style: italic;
+}
+h1 {
+  font-size: 3em;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  padding-bottom: 0px;
+}
+p {
+  padding-bottom: 10px;
+  
+}
+#banner {
+  width: 250px;
+  background-color: whitesmoke;
+  border: 1px;
+  border-color: rgb(75, 138, 197);
+  border-style: solid;
+  float: right;
+  margin-left: 10px;
+  padding: 1%;
+
+}
+#banner img{
+  width: 100%;
 }
