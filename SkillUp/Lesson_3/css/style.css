@@ -1,0 +1,22 @@
+p {
+  color: green;
+  
+}
+
+h1 {
+  font-size:50px ;
+  color: blue;
+  
+}
+a {
+  font-size: 40px;
+  color: yellow;
+}
+ul {
+  background-color: green;
+  
+}
+li{
+  font-size: 30px;
+  color: pink;
+}
