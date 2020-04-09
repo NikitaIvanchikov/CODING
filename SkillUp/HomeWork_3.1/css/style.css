@@ -1,0 +1,30 @@
+#p7 {
+  border-style: solid;
+  border-color: blue;
+  border-width: 3px;
+  font-style: bold;
+  font-size: 35px;
+  letter-spacing: 1px;
+  
+}
+.p246 {
+  border-width: 0;
+  background-color: black;
+  color:white;
+  font-size: 27px;
+  text-decoration: underline;
+  font-style: italic;
+}
+
+p{
+  border-width: 0;
+  font-size: 25px;
+  border-right: red;
+  border-style: dotted;
+  border-right-width: 3px;
+
+}
+p:first-letter{
+  color: red;
+  font-size: 35px;
+}
