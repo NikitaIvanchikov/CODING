@@ -1,8 +1,9 @@
 #p7 {
+  all: none;
   border-style: solid;
   border-color: blue;
   border-width: 3px;
-  font-style: bold;
+  font-weight: 700;
   font-size: 35px;
   letter-spacing: 1px;
   
@@ -16,7 +17,7 @@
   font-style: italic;
 }
 
-p{
+.p{
   border-width: 0;
   font-size: 25px;
   border-right: red;
@@ -24,7 +25,7 @@ p{
   border-right-width: 3px;
 
 }
-p:first-letter{
+.p:first-letter{
   color: red;
   font-size: 35px;
 }
