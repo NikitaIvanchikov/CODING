@@ -1,0 +1,62 @@
+
+table {
+  border: 4px solid #000000;
+  
+  border-spacing: 0px 0px;
+  
+}
+tr {
+  border: 5px solid #000000;
+  
+}
+.tableg {
+  text-align: center;
+}
+.oxide {
+  text-align: center;
+
+}
+.alkaline {
+  padding: 10px;
+  background-color: palevioletred;
+  width: 200px;
+  height: 70px;
+  padding-bottom: 0px;
+}
+.nometal {
+  padding: 10px;
+  background-color: rgb(197, 197, 44);
+  width: 200px;
+  height: 70px;
+  padding-bottom: 0px;
+}
+.metal {
+  padding: 10px;
+  background-color:rgb(62, 62, 151);
+  width: 200px;
+  height: 70px;
+  padding-bottom: 0px;
+}
+.number {
+  position: relative;
+  float: right;
+  margin-top: 0px;
+ 
+}
+h1{
+  font-family: 'Brush Script MT', 'Brush Script Std', cursive;
+  font-size: 50px;
+  margin: 0px;
+}
+h3{
+  font-style: italic;
+  margin: 0px;
+}
+.atweigh{
+  
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.formula{
+  float: right;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
