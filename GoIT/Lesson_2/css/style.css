@@ -1,8 +1,109 @@
-aside{
-  width: 30%;
+*{
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+
+}
+
+
+body{
+  background-color: #f5f7fa;
+  padding: 20px;
+  font-family: Montserrat;
+}
+.wraper{
+  background-color: white;
+  display: flex;
+}
+.sidebar{
+  
+  width: 370px;
+  height: 1319px;
   float: left;
+  background-color: #1e2939;
+  padding-top: 40px;
+  padding-bottom: 40px;
 }
 .cont {
-  width: 70%;
-  float: left;
+  padding: 90px 110px;
+  width: 1200px;
+  height: 1319px;
+  box-shadow: 5px 9px 20px rgba(0, 0, 0, 0.15);
+  background-color: #ffffff;
+  
 }
+.myfoto{
+  width: 370px;
+}
+.contacts {
+  margin: 40px 60px;
+  
+}
+.cont-title {
+  margin-bottom: 20px;
+  font-size: 22px;
+  font-weight: 700;
+  
+  color: white;
+}
+.cont-link {
+  color: #ffffff;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+}
+.letter {
+  margin-right: 10px;
+  color: #ffffff;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+  text-transform: uppercase;
+}
+.teach-tit {
+  margin-bottom: 20px;
+  color: #ffffff;
+  font-family: Montserrat;
+  font-size: 22px;
+  font-weight: 700;
+  
+}
+.teach-cont {
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-top: 55px;
+}
+.teach-it {
+  color: #ffffff;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  margin-left: 15px;
+  color: #ff6b08;
+}
+.teach-it span {
+  color: #ffffff;
+}
+
+.soft-cont {
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-top: 55px;
+}
+.soft-it {
+  color: #ffffff;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  margin-left: 15px;
+  color: #ff6b08;
+}
+.soft-it span {
+  color: #ffffff;
+}
+.soft-tit {
+  margin-bottom: 20px;
+  color: #ffffff;
+  font-family: Montserrat;
+  font-size: 22px;
+  font-weight: 700;
