@@ -1,0 +1,53 @@
+* {
+  color: #ffffff;
+}
+h1 {
+  text-align: center;
+  align-self: center;
+  color: black;
+}
+.sqare {
+  margin-left: 15px;
+  width: 100px;
+  height: 100px;
+  text-align: center;
+  line-height: 100px;
+  float: left;
+}
+.red {
+  background-color: red;
+}
+.orange {
+  background-color: orange;
+}
+.green {
+  background-color: green;
+}
+.pink{
+  background-color: pink;
+}
+.yellow {
+  background-color: yellow;
+}
+.blue {
+  background-color: blue;
+}
+.black {
+  background-color: black;
+}
+.clear {clear: both;}
+.p {
+  width: 100%;
+  background-color: pink;
+  margin-top: 15px;
+  margin-left: 15px;
+}
+
+/* .row {
+  overflow: hidden;
+} */
+.row:after {
+  content: "";
+  display: block;
+  clear: both;
+}
