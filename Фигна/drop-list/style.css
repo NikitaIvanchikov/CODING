@@ -1,0 +1,9 @@
+.button {
+	width: 100px;
+	height: 40px;
+	background-color: black;
+}
+
+.button::hover div {
+	display: none;
+}
