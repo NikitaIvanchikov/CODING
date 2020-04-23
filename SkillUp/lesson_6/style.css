@@ -1,0 +1,42 @@
+body{
+  
+}
+
+.window {
+  text-align: center;
+  margin: 0 auto;
+  width: 200px;
+  height: 200px;
+  background-color: silver;
+  color: white;
+  padding: 15px;
+  position: absolute;
+  top: 80px;
+  left: 0;
+  right: 0;
+
+
+  z-index: 30;
+}
+.but-x{
+  position: absolute;
+  top: 5px;
+  right: 5px;
+  background-color: gray;
+}
+
+input{
+  width: 160px;
+  
+  margin: 5px;
+  
+}
+h3{
+  color: black;
+  margin-bottom: 25px;
+}
+.send{
+  margin: 5px;
+  background-color: blue;
+  width:160px ;
+}
