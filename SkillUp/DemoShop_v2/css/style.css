@@ -84,14 +84,17 @@ body {
 }
 ::placeholder {
   color: #2c71b8;
+  font-size: 21px;
   opacity: 0.75;
+  font-weight: 300;
+  /* background-color: rgba(255, 255, 255, 0.75); */
 }
 .search {
   outline: none;
   height: 40px;
    width: 200px;
   border: 1px solid #2c71b8;
-  
+  background-color: inherit;
   padding-left: 10px;
   
   
@@ -136,10 +139,11 @@ body {
 
 .sub-menu {
   list-style: none;
-  display: none;
+  /* display: none; */
   position: absolute;
-  /* visibility: hidden;
-  opacity: 0; */
+  border: none;
+  visibility: hidden;
+  opacity: 0;
 }
 .sub-menu>li{
  width: 200%;
@@ -156,6 +160,10 @@ body {
 }
 .menu >li:hover .sub-menu {
   display: block;
-  /* visibility: visible;
-  opacity: 1; */
+  visibility: visible;
+  opacity: 1;
+}
+.sub-menu a:hover{
+  background-color: white;
+  color: #2c71b8;
 }
