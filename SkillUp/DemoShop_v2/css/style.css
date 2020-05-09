@@ -178,8 +178,16 @@ width: calc (100%-30px);}
   background-color: rgba(255, 255, 255, 0.25);
   min-height: 800px;
 }
+.col-md-9 {
+  width: 75%;
+}
 .products-header {
   height: 150px;
+  background-color: rgba(0, 0, 0, .25);
+  
+}
+.col-md-dev {
+  width: 33.3%;
 }
 
 .device {
@@ -192,8 +200,46 @@ width: calc (100%-30px);}
 }
 
 .device-image {
-  background-color: rgba(255, 255, 255, 0.25);
-  height: 185px;
-  line-height: 185px;
-  text-align: center;
+  background-color: rgba(255, 255, 255, 0.50);
 }
+.col-dev-1 {
+  width: 205px;
+  padding-left: 40px;
+  text-align: center;
+  height: 180px;
+  line-height: 180px;
+}
+.col-dev-2 {
+  width: 40px;
+  padding-top: 5px;
+  /* padding-right: 5px; */
+}
+.pict {
+  border: 1px solid #2c71b8;
+  width: 30px;
+  height: 30px;
+  margin-bottom: 5px;
+}
+.sqare {
+  background: url(../images/sqare.png) no-repeat 50% 50% ;
+}
+.sqare:hover {
+  background: url(../images/sqare-hover.png) no-repeat 50% 50% #2c71b8;
+}
+
+.heart {
+  background: url(../images/hart.png) no-repeat 50% 50% ;
+}
+.heart:hover {
+  background: url(../images/hart-hover.png) no-repeat 50% 50% #2c71b8;
+}
+.device-contant {
+padding: 10px;
+color: white;
+}
+h2 {
+  font-size: 30px;
+  
+  font-weight: bold;
+}
+p {margin: 10px 0;}
