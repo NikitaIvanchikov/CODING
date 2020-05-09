@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+  <!-- https://github.com/NikitaIvanchikov/DemoShop.github.io.git -->
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>DemoShop_v2</title>
@@ -46,12 +47,14 @@
             </li>
           </ul>
         </div>
-        <div class="col-md-3">
+        <div class="col-md-3 ">
           <div class="cols-1">
             <div class="search-pan">
-              <form  action="#">              
-                  <input type="search" class="search" placeholder="Search">
-                  <input type="button" class="submit">
+              <form  action="#">
+                <div class="row">              
+                  <div class="col-search"><input type="search" class="search" placeholder="Search"></div>
+                  <div class="col-butt"><input type="button" class="submit"></div>
+                </div>
               </form>
             </div>
           </div>
@@ -65,14 +68,24 @@
     </div>
   </header>
   <main class="main">
+    <div class="slider">SLIDER</div>
     <div class="container row">
-      <div class="slider">SLIDER</div>
-      <div class="col-md-3">Devise type</div>
-      <div class="col-md-3">col1</div>
+      
+      <div class="col-md-3 dev-type">Devise type</div>
+      <div class="products-header">Laptops and tablets</div>
+      <div class="col-md-3">
+        <div class="device">
+          <div class="device-image">
+            <a href="#"><img src="images/desctop.png" alt="desctop"></a>
+          </div>
+        </div>
+      </div>
       <div class="col-md-3">col2</div>
       <div class="col-md-3">col3</div>
     </div>
-
+    <div>
+      test commit and push
+    </div>
     
     
   </main>
