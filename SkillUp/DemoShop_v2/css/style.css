@@ -146,8 +146,6 @@ width: calc (100%-30px);}
 .sub-menu>li{
  width: 200%;}
 
-/* .menu li>a:after { content: url(images/arrow.png);}
-.menu li>a:only-child::after { content: "";} */
 .arrow {
   float: right;
   margin-top: 22px;
