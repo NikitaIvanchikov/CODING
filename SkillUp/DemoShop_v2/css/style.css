@@ -109,6 +109,7 @@ width: calc (100%-30px);}
   border: none;
   background: url(../images/cart-1.png) no-repeat 50% 50% white;
 }
+.cart-button:hover {background: url(../images/cart-white.png) no-repeat 50% 50% #2c71b8;}
 .cols-1 {
   width: 80%;
 }
@@ -214,24 +215,25 @@ width: calc (100%-30px);}
 
 .device {
   height: 655px;
-  
+  width: 28%;
   border: 1px solid white;
-  margin: 15px;
+  margin: 10px;
   margin-left: 30px;
-  
+  float: left;
 }
 
 .device-image {
   background-color: rgba(255, 255, 255, 0.50);
-}
-.col-dev-1 {
   
-  width: 205px;
-  padding-left: 40px;
+  position: relative;
   text-align: center;
   height: 180px;
   line-height: 180px;
   padding-top: 30px;
+}
+.col-dev-1 {
+  
+  
 }
 .col-dev-2 {
   width: 40px;
@@ -245,17 +247,23 @@ width: calc (100%-30px);}
   height: 30px;
   margin-bottom: 5px;
 }
-.sqare {
+.litebox {
+  position: absolute;
+  top: 10px;
+  right: 10px;
   background: url(../images/sqare.png) no-repeat 50% 50% ;
 }
-.sqare:hover {
+.litebox:active {
   background: url(../images/sqare-hover.png) no-repeat 50% 50% #2c71b8;
 }
 
-.heart {
+.like {
+  position: absolute;
+  top: 50px;
+  right: 10px;
   background: url(../images/hart.png) no-repeat 50% 50% ;
 }
-.heart:hover {
+.like:active {
   background: url(../images/hart-hover.png) no-repeat 50% 50% #2c71b8;
 }
 .device-contant {
