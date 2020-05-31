@@ -138,11 +138,16 @@ h1 {
   color: #8d8f92;
   margin-bottom: 40px;
 }
+.modest .section-content {
+  flex-wrap: nowrap;
+}
 .paragraph {
-  flex-grow: 6;
+  /* width: 60%; */
+  flex-grow: 7;
 }
 .some-list-items {
-  flex-grow: 6;
+  /* width: 40%; */
+  flex-grow: 5;
 }
 .social-links {
   display: flex;
@@ -227,6 +232,7 @@ h1 {
   background-color: #3a454d;
   height: 900px;
 }
+
 .work {
   position: relative;
   margin: 13px;
@@ -281,10 +287,14 @@ h1 {
 .other-fitures {
   background-color: #3a454d;
   height: 700px;}
+.other-fitures .section-content {
+  flex-wrap: nowrap;
+  justify-content: space-between;
+}
 .fiture-item {
   width: 360px;
   text-align: justify;
-  margin: 13px;
+  /* margin: 13px; */
 }
 .fiture-item h3 {
   font-size: 18px;
@@ -328,12 +338,39 @@ h1 {
   position: absolute;
   top:-100;
   z-index: 100;
-  
+  padding: 30px;
 }
+.message h4 {
+  color :#8d8f92;
+  text-transform: uppercase;
+}
+.contacts {
+  display: flex;
 
-
-
-
+}
+.message input {
+  background-color: #eaeef1 ;
+  border: none;
+  height: 45px;
+  width: 250px;
+  margin: 10px;
+}
+textarea {
+  border: none;
+  background-color: #eaeef1 ;
+  width: 500px;
+  height: 160px;
+  margin: 10px;
+}
+.message button{
+  border: 1px solid white;
+  height: 45px;
+  border-radius: 5px;
+  margin-right: 10px;
+  width: 150px;
+  background-color: #23b7a4;
+  margin: 10px;
+}
 
 
 
