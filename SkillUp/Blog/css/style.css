@@ -85,7 +85,7 @@ header>div {
 
 .slider {
   display: flex;
-  background: url(/images/slide_01.png) no-repeat;
+  background: url(/images/slide_01.png) no-repeat #3a454d;
   height: 660px;
   align-items: center;
 }
