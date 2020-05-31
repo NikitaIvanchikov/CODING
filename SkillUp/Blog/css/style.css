@@ -85,7 +85,7 @@ header>div {
 
 .slider {
   display: flex;
-  background: url(/images/slide_1.png) no-repeat;
+  background: url(/images/slide_01.png) no-repeat;
   height: 660px;
   align-items: center;
 }
@@ -221,4 +221,7 @@ h1 {
 }
 .employee:hover h3{
   color: white;
+}
+.lovely-work {
+  background-color: #3a454d;
 }
