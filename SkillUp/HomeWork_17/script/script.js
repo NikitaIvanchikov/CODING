@@ -2,9 +2,16 @@ let purchase = {};
 let purchaseNumber = +prompt('Введите количество покупок','');
 
 for (i=1; i <= purchaseNumber; i++) {
-  let purchaseName = prompt ('Введите название покупки','name ' + i);
-  let purchaseCoust = prompt ('Введите стоимость покупки', 0);
+  let purchaseName;
+  do {
+    purchaseName = prompt ('Введите название покупки','');
+  } while (purchaseName == 0);
+  let purchaseCoust
+  do {
+    purchaseCoust = prompt ('Введите стоимость покупки', '');
+  } while (purchaseCoust == 0);
   purchase[purchaseName] = purchaseCoust;
+  
 }
 
 console.log (purchase);
