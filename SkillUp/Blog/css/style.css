@@ -221,6 +221,7 @@ h1 {
 }
 .foto-hover .social:hover{
   background-color: #4e5a62;
+  cursor: pointer;
 }
 .employee:hover .foto-hover{
   display: flex ;

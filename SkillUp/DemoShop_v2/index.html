@@ -8,6 +8,7 @@
   <link rel="stylesheet" href="css/reset.css">
   <link rel="stylesheet" href="css/style.css">
   <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,700&display=swap" rel="stylesheet">
+  <script src="script/script.js"></script>
 </head>
 <body>
   <header class="header">
@@ -61,7 +62,8 @@
           <div class=" row cols-2">
             
             <div class="cart-button"></div>
-            <div class="count">4</div>
+            <div id = "clickAmoutn" class="count">0</div>
+            
           </div>
         </div>
       </div>
@@ -162,9 +164,9 @@
                 <div class="button details">
                   <button><span class="bold">more details</span></button>
                 </div>
-                <div class="button add-to-cart">
+                <div onclick="cartCount()" class="button add-to-cart">
                   <button>
-                    <span class="bold">add to cart</span>
+                    <span  class="bold">add to cart</span>
                     <img src="images/cart-white.png" alt="">
                   </button>
                 </div>
@@ -437,5 +439,6 @@
     
   </main>
   <footer class="footer">&#169; Copyright 2017</footer>
+  
 </body>
 </html>
