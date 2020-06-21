@@ -1,69 +1,69 @@
-/* @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&display=swap'); */
-
 *{
-  color: white;
   box-sizing: border-box;
-}
-body {
-  font-family: 'Open Sans', sans-serif;
   color: white;
 }
-header{
-  background-color: #1d2126;
+body{
+  font-family: 'Open Sans', sans-serif;
   
 }
-header>div {
-  display: flex;
-  align-items: center;
-}
+
 .container{
-  width: 1170px;
-  margin: 0 auto;
+  width: 100%;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-left: auto;
+  margin-right: auto;
   
 }
 
-.logo{
-  padding: 30px 15px;
-}
-.col-md-3 {
-  flex-grow: 3;
-}
-.col-md-6 {
-  flex-grow: 6;
-  
-  
+.row {
+  display: flex;
+  margin-left: -15px;
+  margin-right: -15px;
 }
 
+.col{
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.header {
+  position: sticky;
+  background-color: #1d2126;
 
-.menu {
-  
+}
+.header-row {
+ flex-direction: column;
+ align-items: center;
+}
+.nav-menu{
+
+  display: flex;
   text-decoration: none;
   list-style: none;
-  display: flex;
   justify-content: space-around;
   align-content: center;
-  
 }
-.menu li {
+.nav-menu li {
   padding: 10px 8px;
   border: 1px solid #1d2126;
   border-radius: 5px;
 }
-.menu li a {
+.nav-menu li a {
   text-decoration: none;
   text-transform: uppercase;
+
   margin: 10px;
 }
 
-.menu > li:hover {
+.nav-menu > li:hover {
   
   border-color: white;
   cursor: pointer;
 }
-.menu li:active a{
+.nav-menu li:active a{
   color: #23b7a4;
 }
-.menu li:active {
+.nav-menu li:active {
   border-color: #23b7a4;
 }
 
@@ -71,6 +71,7 @@ header>div {
   border: 1px solid white;
   border-radius: 5px;
   padding: 5px;
+  width: 120px;
 }
 .search img{
   height: 15px;
@@ -79,16 +80,17 @@ header>div {
 .search input{
   background-color: inherit;
   border: none;
-  width: 85%;
+  width: 70%;
 }
 .search button {
   background-color: inherit;
   border: none;
 }
 
+
 .slider {
   display: flex;
-  background: url(../images/slide_01.png) no-repeat #3a454d;
+  background: url(../images/slide_01.png) no-repeat 100%#3a454d;
   height: 660px;
   align-items: center;
 }
@@ -121,6 +123,7 @@ h1 {
   cursor: pointer;
 }
 
+
 .section-header {
   display: flex;
   height: 180px;
@@ -136,13 +139,14 @@ h1 {
   display: flex;
   padding: 5px;
   flex-wrap: wrap;
+  justify-content: space-around;
 }
 .section-content p {
   color: #8d8f92;
   margin-bottom: 40px;
 }
 .modest .section-content {
-  flex-wrap: nowrap;
+  flex-wrap: wrap;
 }
 .paragraph {
   /* width: 60%; */
@@ -178,6 +182,12 @@ h1 {
   background-color: #23b7a4;
   float: left;
 }
+.paragraph {
+  margin-bottom: 30px;
+}
+
+
+
 .employee {
   margin-right: 20px ;
   position: relative;
@@ -234,12 +244,12 @@ h1 {
 }
 .lovely-work {
   background-color: #3a454d;
-  height: 900px;
+  padding-bottom: 15px;
 }
 
 .work {
   position: relative;
-  margin: 13px;
+  margin-top: 10px;
 }
 .foto-hover-2 {
   display: none;
@@ -268,12 +278,11 @@ h1 {
 }
 .icon {
   text-align: center;
-} 
+}
 
-/* what-we-do */
 .fitures {
-  width: 22%;
-  margin: 15px;
+  width: 250px;
+ 
 }
 .fiture-description {
   padding: 15px;
@@ -292,9 +301,10 @@ h1 {
 
 .other-fitures {
   background-color: #3a454d;
-  height: 700px;}
+  
+}
 .other-fitures .section-content {
-  flex-wrap: nowrap;
+  /* flex-wrap: nowrap; */
   justify-content: space-between;
 }
 .fiture-item {
@@ -311,6 +321,8 @@ h1 {
   font-size: 16px;
   margin-top: 30px;
 }
+
+
 .map{
   height: 350px;
   background: url(../images/map.png);
@@ -391,4 +403,72 @@ footer .container {
 }
 footer .social {
   background-color: #3a454d;
+}
+
+/* tablet */
+@media (min-width: 768px) {
+  .container{
+    max-width: 740px;
+  }
+  .header-row{
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    height: 80px;
+  }
+  .nav-menu {
+    display: flex;
+  }
+}
+
+
+
+
+
+
+
+/* laptop */
+@media (min-width: 992px) {
+  .container{
+    max-width: 960px;
+  }
+  .modest .section-content {
+    flex-wrap: nowrap;
+  }
+  .paragraph {
+    margin-bottom: 0px;
+  }
+  .team .section-content {
+    flex-wrap: nowrap;
+  }
+}
+
+/* desctop */
+@media (min-width: 1200px) {
+  .container{
+    max-width: 1140px;
+  }
+
+
+}
+
+/* mobile only */
+@media (max-width: 767px) {
+  .header{
+    padding: 15px;
+  }
+  .nav-menu{
+    overflow-x: auto;
+    width: 300px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+  }
+  
+ .buttons {
+
+  flex-direction: column;
+  }
+  .onSlideButton {
+    margin-bottom: 15px;
+  }
 }
