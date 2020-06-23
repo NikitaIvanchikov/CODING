@@ -5,10 +5,10 @@ body {
   font-family: 'Fira Sans', sans-serif;
 }
 h1 {
-  font-size: 80px;
+  font-size: 60px;
   font-weight: 700;
   margin: 30px 0;
-  text-align: center;
+  
 }
 h2{
   font-size: 50px;
@@ -46,9 +46,9 @@ p{
 }
 .primary__form{
   display: flex;
-
+  width: 100%;
   color: white;
-  padding: 30px 50px;
+  justify-content: center;
 
   background-image: url(../images/primary_form_background.png) ;
   background-repeat: round;
@@ -73,6 +73,7 @@ p{
 }
 .container {
   width: 100%;
+  padding: 15px;
 }
 .row {
   padding: 0 -15px;
@@ -113,9 +114,9 @@ p{
   background-color: #ff213b;
 }
 .primary__form input {
-  margin: 20px;
+  margin: 20px 0;
   height: 60px;
-  width: 400px;
+  width: 100%;
   
 }
 .primary__form input::placeholder{
@@ -125,7 +126,7 @@ p{
 }
 #primary_button{
   background-color: #ff213b;
-  width: 350px;
+  width: 250px100%;
   height: 75px;
   border: none;
   font-weight: 700;
@@ -167,9 +168,15 @@ h3 {
 
 }
 
+.adventages__image img {
+  width: 100%;
+  margin: 15px;
+}
+
 .service-item {
-  width: 450px;
+  width: 100%;
   box-shadow: 0 0 30px;
+  margin: 20px;
   margin-bottom: 70px;
 }
 .service-item__header {
@@ -189,7 +196,7 @@ h3 {
   border-bottom: 1px solid #e2e2e2;
 }
 .service-list-item {
-  width: 350px;
+  
   margin: 20px;
 
 }
@@ -222,7 +229,7 @@ h3 {
 }
 .service-item__order{
   height: 60px;
-  width: 320px;
+  width: 50%;
   font-size: 24px;
   font-weight: 700;
   background-color: #ff213b;
@@ -230,7 +237,8 @@ h3 {
   line-height: 60px;
   position: absolute;
   bottom: -30px;
-  left:65px;
+  left: 25%;
+  
   box-shadow:0 0 15px #ff213b;
 }
 .service-cost__footer{
@@ -246,9 +254,9 @@ h3 {
 
 
 footer{
-  height: 120px;
+
   background-color: #172c42;
-  line-height: 130px;
+
 }
 footer a {
   color: white;
@@ -264,7 +272,7 @@ footer a {
     max-width: 740px;
     margin: 0 auto;
   }
-
+  
 
 }
 
@@ -272,6 +280,10 @@ footer a {
 
 /* laptop */
 @media (min-width: 992px) {
+
+
+
+
   .container{
     max-width: 960px;
   }
@@ -281,12 +293,13 @@ footer a {
     justify-content: space-between;
   }
   .primary__menu {
-    width: 70%;
+    width: 65%;
     padding: 0;
     min-height: 700px;
   }
   .primary__form {
     min-height: 700px;
+    width: 35%;
     align-items: center;
 
   }
@@ -302,8 +315,14 @@ footer a {
     align-items: flex-start;
   
   }
+  .service-item {
+    width: 400px;
+  }
 
-  
+  footer{
+    height: 120px;
+    line-height: 110px;
+  }
 }
 
 /* desctop */
@@ -311,8 +330,23 @@ footer a {
   .container{
     max-width: 1140px;
   }
+  h1 {font-size: 80px;}
 
 /* mobile only */
 @media (max-width: 767px) {
+  h2{
+    font-size: 30px;
 
+  }
+}
+
+@media (max-width: 400px) {
+  h1{
+    font-size: 30px;
+    font-weight: normal;
+  }
+  h2{
+    font-size: 30px;
+    font-weight: normal;
+  }
 }
