@@ -19,7 +19,7 @@
           <div class="header__number">
             <a href="tel:+380999999999" class="header__phone">+38 (099) 999 99 99</a>
           </div>
-          <div class="header__order-button">Заказать</div>
+          <div class="header__order-button" id = "headerOrderButton">Заказать</div>
         </div>
       </div>
    </div>  
@@ -176,7 +176,7 @@
     </section>
     <section id="orderPoupUp" class="poupup">
       <div class="poupup__container">
-        <div class="poupup__header"><h2>Заявка</h2><img src="images/close.png" alt=""></div>
+        <div class="poupup__header"><h2>Заявка</h2><img class="close" src="images/close.png" alt=""></div>
         <div class="poupup__order">
           <form action="">
             <input type="text" class = "poupup__elements" placeholder="Имя">
@@ -189,7 +189,9 @@
     </section>
     <section id="successful" class="poupup">
       <div class="poupup__container success">
-        <div class="poupup__header"><img src="images/close.png" alt=""></div>
+        <div class="poupup__header">
+          <div class="close"><img src="images/close.png" alt=""></div>
+        </div>
         <div class="poupup__content">
           <div class="poupup__image__ok">
             <img src="images/poup__order_success.png" alt="">
@@ -214,5 +216,6 @@
       </div>
     </div>
   </footer>
+  <script src="script/script.js"></script>
 </body>
 </html>
