@@ -263,6 +263,8 @@ h3 {
 .poupup__container{
   background-color: white;
   width: 300px;
+  left: 33%;
+  top:20%;
   position: relative;
   padding: 15px;
   text-align: center;
