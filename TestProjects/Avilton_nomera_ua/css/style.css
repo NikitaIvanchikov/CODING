@@ -113,6 +113,9 @@ p{
 .header__order-button:active {
   background-color: #ff213b;
 }
+.header__order-button:hover {
+  cursor: pointer;
+}
 .primary__form input {
   margin: 20px 0;
   height: 60px;
@@ -132,6 +135,9 @@ p{
   font-weight: 700;
   font-size: 24px;
   color: white;
+}
+#primary_button:hover{
+  cursor: pointer;
 }
 
 .adventages {
@@ -241,6 +247,9 @@ h3 {
   
   box-shadow:0 0 15px #ff213b;
 }
+.service-item__order:hover{
+  cursor: pointer;
+}
 
 
 
@@ -248,12 +257,11 @@ h3 {
   display: none;
 }
 .poupup{
-  position: absolute;
+  position: fixed;
   top: 0;
   left: 0;
   width: 100%;
   height: 100%;
-  display: flex;
   align-items: center;
   justify-content: center;
   z-index: 200;
@@ -263,8 +271,6 @@ h3 {
 .poupup__container{
   background-color: white;
   width: 300px;
-  left: 33%;
-  top:20%;
   position: relative;
   padding: 15px;
   text-align: center;

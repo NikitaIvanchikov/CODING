@@ -4,7 +4,7 @@
     max-width: 740px;
     margin: 0 auto;
   }
-  
+
 
 }
 
@@ -92,6 +92,7 @@
   }
   h1 {font-size: 80px;}
 
+
 /* mobile only */
 @media (max-width: 767px) {
   h2{
@@ -100,13 +101,3 @@
   }
 }
 
-@media (max-width: 400px) {
-  h1{
-    font-size: 30px;
-    font-weight: normal;
-  }
-  h2{
-    font-size: 30px;
-    font-weight: normal;
-  }
-}
