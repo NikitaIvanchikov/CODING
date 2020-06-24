@@ -374,7 +374,62 @@ footer a {
   font-size: 24px;
 }
 
+.slider {
+  width: 100%;
+  position: relative;
+  margin: auto;
 
 
+}
+
+.prev , .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  margin-top: -20px;
+  line-height: 40px;
+  text-align: center;
+  color:black;
+  font-weight: 800;
+  font-size: 22px;
+  height: 40px;
+  width: 40px;
+  transition: 0.6 ease;
+  border-radius: 20px;
+  box-shadow:0 0 10px black;
+}
+.slider__slides {
+  text-align: center;
+  padding: 40px 0;
+}
+.next {
+  right: 0;
+}
+.prev:hover, .next:hover {
+  background-color: rgba(0, 0, 0, .75);
+}
+.slides__number {
+  font-size: 24px;
+  font-weight: 800;
+  padding: 10px;
+  position: absolute;
+  top:0;
+  left: 50%;
+}
 
 
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+@-webkit-keyframes fade{
+  from{opacity: 0.4;}
+  to{opacity: 1;}
+}
+@keyframes fade{
+  from{opacity: 0.4;}
+  to{opacity: 1;}
+}
