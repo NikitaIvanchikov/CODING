@@ -49,7 +49,7 @@ p{
   width: 100%;
   color: white;
   justify-content: center;
-
+  padding-top: 20px;
   background-image: url(../images/primary_form_background.png) ;
   background-repeat: round;
 }
