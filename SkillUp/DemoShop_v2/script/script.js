@@ -17,6 +17,8 @@
 
 // }
 
+
+//add to cart
 let productsCountEl = document.getElementById('products-count'),
     addToCartButtons = document.getElementsByClassName('add-to-cart');
 
@@ -29,10 +31,53 @@ for (let i =0; i < addToCartButtons.length; i++) {
 }
 
 
+//change like state
+
+let likeButtons = document.querySelectorAll('.like');
+console.log(likeButtons);
 
 
+// for ( let i=0; i < likeButtons.length; i++) {
+//   likeButtons[i].addEventListener('click', function() {
+//     if(this.classList.contains("liked")) {
+//       this.classList.remove('liked')
+//     }else {
+//       this.classList.add("liked")
+//     }
+
+//   })
+// }
+
+for ( let i=0; i < likeButtons.length; i++) {
+  likeButtons[i].addEventListener('click', function() {
+    this.classList.toggle("liked");
+  });
+}
 
 
+//Modal window
+let moreDetailsButton = document.querySelectorAll('.more-details-button'),
+    modal = document.querySelector('.modal'),
+    closeBtn = document.querySelector('.btn-close');
 
--
--
+moreDetailsButton.forEach(function(btn){
+  btn.addEventListener('click', function () {
+    modal.classList.add('show');
+    modal.classList.remove('hide');
+  })
+})
+
+function closeModal() {
+  modal.classList.add('hide');
+  modal.classList.remove('show');
+}
+
+
+closeBtn.addEventListener('click',closeModal);
+
+
+modal.addEventListener('click', function(e) {
+  if (e.target === modal) {
+    closeModal()
+  }
+})

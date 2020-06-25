@@ -1,3 +1,7 @@
+
+
+
+// Poupup's
 let orderPoupup = document.getElementById('orderPoupUp'),
     orderToggle = document.getElementById('headerOrderButton'),
     poupupClose = document.getElementsByClassName('close');
@@ -29,7 +33,7 @@ console.log(orderToggleSeviceItem);
       }
     }
 
-
+//Slider
 let slideIndex = 1;
 showSlides(slideIndex);
 
@@ -55,3 +59,17 @@ function showSlides(n) {
     }
     slides[slideIndex - 1].style.display = "block";
 }
+
+//scroll
+let anchors = document.querySelectorAll('a[href*="#"');
+console.log(anchors);
+    for (let anchor of anchors) {
+      anchor.addEventListener('click', function(e) {
+        e.preventDefault();
+        const blockID = anchor.getAttribute('href');
+        document.querySelector('' + blockID).scrollIntoView({
+          behavior:  "smooth",
+          block: "start"
+        })
+      })
+    }

@@ -312,6 +312,10 @@ form > div.button{
 .like:active {
   background: url(../images/hart-hover.png) no-repeat 50% 50% #2c71b8;
 }
+.liked {
+  background: url(../images/hart-hover.png) no-repeat 50% 50% #2c71b8;
+}
+
 .device-contant {
 padding: 10px;
 color: white;
@@ -368,6 +372,45 @@ font-size: 36px;}
   color: white;
   padding-top: 50px;
 }
+
+.modal {
+  
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background-color: rgba(0, 0, 0, .75);
+  display: none;
+}
+.modal__block {
+  width: 300px;
+  margin: 80px auto;
+  border: 1px solid grey;
+  background-color: white;
+  padding: 15px;
+  box-sizing: border-box;
+}
+.form-filds {
+  margin: 15px 0;;
+}
+.form-filds input {
+  width: 100%;
+  height: 30px;
+  padding: 5px;
+}
+.btn-close {
+  text-align: right;
+}
+
+.hide {
+  display: none;
+}
+.show{
+  display: block;
+}
+
+
 
 
 footer {
