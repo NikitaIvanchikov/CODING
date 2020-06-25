@@ -4,6 +4,10 @@
     max-width: 740px;
     margin: 0 auto;
   }
+  .header .row {
+    flex-direction: row;
+    justify-content: space-between;
+  }
 
 
 }
