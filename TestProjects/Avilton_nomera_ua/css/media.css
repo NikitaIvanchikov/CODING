@@ -135,7 +135,7 @@ h2{
 
 @media (max-width: 767px) {
   .header .container {
-    padding: 0;
+    padding: 10px;
   }
   .header__order {
     flex-direction: row;
@@ -147,4 +147,13 @@ h2{
     padding: 30px 0;
     
   }
+  .primary__form input {
+    width: 94%;
+    margin-left: 3%;
+  }
+  #primary__button {
+    width: 94%;
+    margin-left: 3%;
+  }
+ 
 }
