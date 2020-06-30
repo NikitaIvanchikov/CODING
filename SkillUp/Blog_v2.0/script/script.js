@@ -2,9 +2,9 @@
 //poupup
 let modalBtn = document.querySelectorAll('#open__modal'),
     modal = document.querySelector('.poupup'),
-    closeBtn = document.querySelector('.close');
+    closeBtn = document.querySelectorAll('.close');
 
-console.log(modal);
+console.log(closeBtn);
 
 
 function openModal (modalID) {
@@ -26,12 +26,14 @@ function closeModal (modalID) {
   modalID.classList.add('hide');
   modalID.classList.remove('show');
 }
-closeBtn.addEventListener('click', function(e) {
-  if (e.target == closeBtn) {
+for (let i =0; i < closeBtn.length; i++) {
+closeBtn[i].addEventListener('click', function(e) {
+  if (e.target == closeBtn[i]) {
     closeModal(modal);
     
   }
-});
+})
+};
 
 modal.addEventListener('click', function(e) {
   if (e.target == modal) {
@@ -60,15 +62,16 @@ window.addEventListener('scroll', function () {
 
 console.log('modalSubscribe =' + modalSubscribe);
 
-closeBtn.addEventListener('click', function(e) {
-  if (e.target == closeBtn) {
-    for( let i=0; i < modalSubscribe.length; i++) {
-    closeModal(modalSubscribe);
+for (let i =0; i < closeBtn.length; i++) {
+  closeBtn[i].addEventListener('click', function(e) {
+    if (e.target == closeBtn[i]) {
+      closeModal(modalSubscribe);
+      
     }
-  }
-});
+  })
+  };
 
-modal.addEventListener('click', function(e) {
+  modalSubscribe.addEventListener('click', function(e) {
   if (e.target == modalSubscribe) {
     closeModal(modalSubscribe);
   }
