@@ -59,12 +59,12 @@ for ( let i=0; i < likeButtons.length; i++) {
 let moreDetailsButton = document.querySelectorAll('.more-details-button'),
     modal = document.querySelector('.modal'),
     closeBtn = document.querySelector('.btn-close');
-
+function openModal() {
+  modal.classList.add('show');
+  modal.classList.remove('hide');
+}
 moreDetailsButton.forEach(function(btn){
-  btn.addEventListener('click', function () {
-    modal.classList.add('show');
-    modal.classList.remove('hide');
-  })
+  btn.addEventListener('click', openModal)
 })
 
 function closeModal() {
@@ -80,4 +80,31 @@ modal.addEventListener('click', function(e) {
   if (e.target === modal) {
     closeModal()
   }
-})
+});
+
+function openModalByScroll() {
+  if (window.pageYOffset >= document.documentElement.scrollHeight / 2) {
+    openModal();
+    window.removeEventListener('scroll', openModalByScroll)
+  }
+  
+}
+
+// window.addEventListener ('scroll', function() {
+//   let scrollPosition = +pageYOffset;
+//   if ( scrollPosition > document.documentElement.scrollHeight / 2) {
+//     openModal()
+//   }
+// })
+window.addEventListener ('scroll', openModalByScroll);
+
+
+
+ /// Slider (SlikSlider)
+
+ $('.slider-block').slick({
+   dots:true,
+   autoplay:true,
+   autoplay:3000
+ })
+

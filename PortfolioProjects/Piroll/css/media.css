@@ -1,0 +1,39 @@
+/* tablet */
+@media (min-width: 768px) {
+  .container{
+    width: 760px;
+  }
+  .text {
+    padding: 50px;
+  }
+
+}
+
+/* laptop */
+@media (min-width: 992px) {
+  .container{
+    width: 900px;
+  }
+  .text {
+    padding: 105px;
+  }
+  .text__header h1 {
+    font-size: 38px;
+  }
+
+}
+
+/* desctop */
+@media (min-width: 1200px) {
+  .container{
+    width: 1170px;
+  }
+
+}
+
+/* mobile only */
+@media (max-width: 767px) {
+  
+
+ 
+}
