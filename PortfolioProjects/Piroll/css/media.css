@@ -6,6 +6,13 @@
   .text {
     padding: 50px;
   }
+  .work__row {
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+  .work__item {
+    width: 50%;
+  }
 
 }
 
@@ -19,6 +26,10 @@
   }
   .text__header h1 {
     font-size: 38px;
+  }
+  
+  .work__item {
+    width: 25%;
   }
 
 }

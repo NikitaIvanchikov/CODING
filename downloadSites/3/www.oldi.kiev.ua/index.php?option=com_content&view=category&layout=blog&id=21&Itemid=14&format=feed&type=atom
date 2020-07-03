@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! 1.5 - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="ru-ru">
+	<title type="text">Акционные предложения</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="http://www.oldi.kiev.ua"/>
+	<id>http://www.oldi.kiev.ua/index.php</id>
+	<updated>2020-07-02T15:33:03Z</updated>
+	<generator uri="http://joomla.org" version="1.5">Joomla! 1.5 - Open Source Content Management</generator>
+<link rel="self" type="application/atom+xml" href="http://www.oldi.kiev.ua/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=21&amp;Itemid=14&amp;format=feed&amp;type=atom" />
+	<entry>
+		<title>1</title>
+		<link rel="alternate" type="text/html" href="http://www.oldi.kiev.ua/index.php?option=com_content&amp;view=article&amp;id=250%3A1&amp;catid=21%3A2010-11-10-14-02-37&amp;Itemid=14"/>
+		<published>2010-12-15T23:49:48Z</published>
+		<updated>2010-12-15T23:49:48Z</updated>
+		<id>http://www.oldi.kiev.ua/index.php?option=com_content&amp;view=article&amp;id=250%3A1&amp;catid=21%3A2010-11-10-14-02-37&amp;Itemid=14</id>
+		<author>
+			<name>Administrator</name>
+		<email>aventurier@yandex.ru</email>
+		</author>
+		<summary type="html">&lt;p style=&quot;text-align: center&quot;&gt;&lt;img alt=&quot;&quot; src=&quot;images/stories/akc_predlozh/Zhitomir/1.jpg&quot; /&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p style=&quot;text-align: center&quot;&gt;&lt;img alt=&quot;&quot; src=&quot;images/stories/akc_predlozh/Zhitomir/1.jpg&quot; /&gt;&lt;/p&gt;</content>
+	</entry>
+	<entry>
+		<title>2</title>
+		<link rel="alternate" type="text/html" href="http://www.oldi.kiev.ua/index.php?option=com_content&amp;view=article&amp;id=249%3A2&amp;catid=21%3A2010-11-10-14-02-37&amp;Itemid=14"/>
+		<published>2010-12-15T23:49:37Z</published>
+		<updated>2010-12-15T23:49:37Z</updated>
+		<id>http://www.oldi.kiev.ua/index.php?option=com_content&amp;view=article&amp;id=249%3A2&amp;catid=21%3A2010-11-10-14-02-37&amp;Itemid=14</id>
+		<author>
+			<name>Administrator</name>
+		<email>aventurier@yandex.ru</email>
+		</author>
+		<summary type="html">&lt;p style=&quot;text-align: center&quot;&gt;&lt;img alt=&quot;&quot; src=&quot;images/stories/akc_predlozh/Zhitomir/2.jpg&quot; /&gt;&amp;nbsp;&lt;/p&gt;</summary>
+		<content type="html">&lt;p style=&quot;text-align: center&quot;&gt;&lt;img alt=&quot;&quot; src=&quot;images/stories/akc_predlozh/Zhitomir/2.jpg&quot; /&gt;&amp;nbsp;&lt;/p&gt;</content>
+	</entry>
+	<entry>
+		<title>3</title>
+		<link rel="alternate" type="text/html" href="http://www.oldi.kiev.ua/index.php?option=com_content&amp;view=article&amp;id=248%3A3&amp;catid=21%3A2010-11-10-14-02-37&amp;Itemid=14"/>
+		<published>2010-12-15T23:49:23Z</published>
+		<updated>2010-12-15T23:49:23Z</updated>
+		<id>http://www.oldi.kiev.ua/index.php?option=com_content&amp;view=article&amp;id=248%3A3&amp;catid=21%3A2010-11-10-14-02-37&amp;Itemid=14</id>
+		<author>
+			<name>Administrator</name>
+		<email>aventurier@yandex.ru</email>
+		</author>
+		<summary type="html">&lt;p style=&quot;text-align: center&quot;&gt;&lt;img alt=&quot;&quot; src=&quot;images/stories/akc_predlozh/Zhitomir/3.jpg&quot; /&gt;&amp;nbsp;&lt;/p&gt;</summary>
+		<content type="html">&lt;p style=&quot;text-align: center&quot;&gt;&lt;img alt=&quot;&quot; src=&quot;images/stories/akc_predlozh/Zhitomir/3.jpg&quot; /&gt;&amp;nbsp;&lt;/p&gt;</content>
+	</entry>
+	<entry>
+		<title>4</title>
+		<link rel="alternate" type="text/html" href="http://www.oldi.kiev.ua/index.php?option=com_content&amp;view=article&amp;id=247%3A4&amp;catid=21%3A2010-11-10-14-02-37&amp;Itemid=14"/>
+		<published>2010-12-15T23:49:00Z</published>
+		<updated>2010-12-15T23:49:00Z</updated>
+		<id>http://www.oldi.kiev.ua/index.php?option=com_content&amp;view=article&amp;id=247%3A4&amp;catid=21%3A2010-11-10-14-02-37&amp;Itemid=14</id>
+		<author>
+			<name>Administrator</name>
+		<email>aventurier@yandex.ru</email>
+		</author>
+		<summary type="html">&lt;p style=&quot;text-align: center&quot;&gt;&lt;img alt=&quot;&quot; src=&quot;images/stories/akc_predlozh/Zhitomir/4.jpg&quot; /&gt;&amp;nbsp;&lt;/p&gt;</summary>
+		<content type="html">&lt;p style=&quot;text-align: center&quot;&gt;&lt;img alt=&quot;&quot; src=&quot;images/stories/akc_predlozh/Zhitomir/4.jpg&quot; /&gt;&amp;nbsp;&lt;/p&gt;</content>
+	</entry>
+</feed>

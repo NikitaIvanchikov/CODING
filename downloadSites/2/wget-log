@@ -1,0 +1,549 @@
+--2020-07-02 18:30:32--  https://www.giornodigloria.com/cgi-bin/wingame.pl?partner_pk=577
+Распознаётся www.giornodigloria.com (www.giornodigloria.com)… 104.31.81.205, 172.67.170.218, 104.31.80.205, ...
+Подключение к www.giornodigloria.com (www.giornodigloria.com)|104.31.81.205|:443... соединение установлено.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: нет данных [text/html]
+Сохранение в: «www.giornodigloria.com/cgi-bin/wingame.pl?partner_pk=577.html»
+
+          www.giorno     [<=>                    ]       0  --.-KB/s               www.giornodigloria.c     [ <=>                   ]  45,11K   257KB/s    за 0,2s    
+
+2020-07-02 18:30:34 (257 KB/s) - «www.giornodigloria.com/cgi-bin/wingame.pl?partner_pk=577.html» сохранён [46195]
+
+Загрузка robots.txt; не обращайте внимания на ошибки.
+--2020-07-02 18:30:34--  https://www.giornodigloria.com/robots.txt
+Повторное использование соединения с www.giornodigloria.com:443.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 0 [text/plain]
+Сохранение в: «www.giornodigloria.com/robots.txt»
+
+          www.giorno     [<=>                    ]       0  --.-KB/s               www.giornodigloria.c     [ <=>                   ]       0  --.-KB/s    за 0s      
+
+2020-07-02 18:30:34 (0,00 B/s) - «www.giornodigloria.com/robots.txt» сохранён [0/0]
+
+--2020-07-02 18:30:34--  https://www.giornodigloria.com/_global/js/tl_report.min.js?2020-07-02.22
+Повторное использование соединения с www.giornodigloria.com:443.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: нет данных [application/javascript]
+Сохранение в: «www.giornodigloria.com/_global/js/tl_report.min.js?2020-07-02.22»
+
+          www.giorno     [<=>                    ]       0  --.-KB/s               www.giornodigloria.c     [ <=>                   ]   2,07K  --.-KB/s    за 0s      
+
+2020-07-02 18:30:34 (20,7 MB/s) - «www.giornodigloria.com/_global/js/tl_report.min.js?2020-07-02.22» сохранён [2123]
+
+--2020-07-02 18:30:34--  https://www.giornodigloria.com/_global/fonts/font-awesome-4.7.0/css/font-awesome.min.css?2020-07-02.22
+Повторное использование соединения с www.giornodigloria.com:443.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: нет данных [text/css]
+Сохранение в: «www.giornodigloria.com/_global/fonts/font-awesome-4.7.0/css/font-awesome.min.css?2020-07-02.22.css»
+
+          www.giorno     [<=>                    ]       0  --.-KB/s               www.giornodigloria.c     [ <=>                   ]  30,27K  --.-KB/s    за 0,003s  
+
+2020-07-02 18:30:34 (9,84 MB/s) - «www.giornodigloria.com/_global/fonts/font-awesome-4.7.0/css/font-awesome.min.css?2020-07-02.22.css» сохранён [31000]
+
+--2020-07-02 18:30:34--  https://www.giornodigloria.com/_global/wingame/default/css/foundation-xy-grid/foundation-custom.css?2020-07-02.22
+Повторное использование соединения с www.giornodigloria.com:443.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: нет данных [text/css]
+Сохранение в: «www.giornodigloria.com/_global/wingame/default/css/foundation-xy-grid/foundation-custom.css?2020-07-02.22.css»
+
+          www.giorno     [<=>                    ]       0  --.-KB/s               www.giornodigloria.c     [ <=>                   ]  62,28K  --.-KB/s    за 0,001s  
+
+2020-07-02 18:30:34 (95,8 MB/s) - «www.giornodigloria.com/_global/wingame/default/css/foundation-xy-grid/foundation-custom.css?2020-07-02.22.css» сохранён [63770]
+
+--2020-07-02 18:30:34--  https://www.giornodigloria.com/_global/wingame/76/css/series.css?2020-07-02.22
+Повторное использование соединения с www.giornodigloria.com:443.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: нет данных [text/css]
+Сохранение в: «www.giornodigloria.com/_global/wingame/76/css/series.css?2020-07-02.22.css»
+
+          www.giorno     [<=>                    ]       0  --.-KB/s               www.giornodigloria.c     [ <=>                   ]  10,83K  --.-KB/s    за 0s      
+
+2020-07-02 18:30:34 (69,4 MB/s) - «www.giornodigloria.com/_global/wingame/76/css/series.css?2020-07-02.22.css» сохранён [11089]
+
+--2020-07-02 18:30:34--  https://www.giornodigloria.com/wingame/62/css/sweepstake.css?2020-07-02.22
+Повторное использование соединения с www.giornodigloria.com:443.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: нет данных [text/css]
+Сохранение в: «www.giornodigloria.com/wingame/62/css/sweepstake.css?2020-07-02.22.css»
+
+          www.giorno     [<=>                    ]       0  --.-KB/s               www.giornodigloria.c     [ <=>                   ]   1,48K  --.-KB/s    за 0s      
+
+2020-07-02 18:30:34 (71,0 MB/s) - «www.giornodigloria.com/wingame/62/css/sweepstake.css?2020-07-02.22.css» сохранён [1517]
+
+--2020-07-02 18:30:34--  https://www.giornodigloria.com/_global/js/framework/MooTools-Core-1.6.0-compressed.js?2020-07-02.22
+Повторное использование соединения с www.giornodigloria.com:443.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: нет данных [application/javascript]
+Сохранение в: «www.giornodigloria.com/_global/js/framework/MooTools-Core-1.6.0-compressed.js?2020-07-02.22»
+
+          www.giorno     [<=>                    ]       0  --.-KB/s               www.giornodigloria.c     [ <=>                   ]  87,45K  --.-KB/s    за 0,01s   
+
+2020-07-02 18:30:34 (7,37 MB/s) - «www.giornodigloria.com/_global/js/framework/MooTools-Core-1.6.0-compressed.js?2020-07-02.22» сохранён [89549]
+
+--2020-07-02 18:30:34--  https://www.giornodigloria.com/_global/js/moolidator.js?2020-07-02.22
+Повторное использование соединения с www.giornodigloria.com:443.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: нет данных [application/javascript]
+Сохранение в: «www.giornodigloria.com/_global/js/moolidator.js?2020-07-02.22»
+
+          www.giorno     [<=>                    ]       0  --.-KB/s               www.giornodigloria.c     [ <=>                   ]  33,72K  --.-KB/s    за 0s      
+
+2020-07-02 18:30:34 (260 MB/s) - «www.giornodigloria.com/_global/js/moolidator.js?2020-07-02.22» сохранён [34528]
+
+--2020-07-02 18:30:34--  https://www.giornodigloria.com/_global/js/moolidator_rules.js?2020-07-02.22
+Повторное использование соединения с www.giornodigloria.com:443.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: нет данных [application/javascript]
+Сохранение в: «www.giornodigloria.com/_global/js/moolidator_rules.js?2020-07-02.22»
+
+          www.giorno     [<=>                    ]       0  --.-KB/s               www.giornodigloria.c     [ <=>                   ]  19,40K  --.-KB/s    за 0,001s  
+
+2020-07-02 18:30:34 (13,0 MB/s) - «www.giornodigloria.com/_global/js/moolidator_rules.js?2020-07-02.22» сохранён [19865]
+
+--2020-07-02 18:30:34--  https://www.giornodigloria.com/_global/js/scripts.js?2020-07-02.22
+Повторное использование соединения с www.giornodigloria.com:443.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: нет данных [application/javascript]
+Сохранение в: «www.giornodigloria.com/_global/js/scripts.js?2020-07-02.22»
+
+          www.giorno     [<=>                    ]       0  --.-KB/s               www.giornodigloria.c     [ <=>                   ]  39,59K  --.-KB/s    за 0s      
+
+2020-07-02 18:30:35 (103 MB/s) - «www.giornodigloria.com/_global/js/scripts.js?2020-07-02.22» сохранён [40539]
+
+--2020-07-02 18:30:35--  https://www.giornodigloria.com/wingame/global/js/global.js?2020-07-02.22
+Повторное использование соединения с www.giornodigloria.com:443.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: нет данных [application/javascript]
+Сохранение в: «www.giornodigloria.com/wingame/global/js/global.js?2020-07-02.22»
+
+          www.giorno     [<=>                    ]       0  --.-KB/s               www.giornodigloria.c     [ <=>                   ]   3,34K  --.-KB/s    за 0s      
+
+2020-07-02 18:30:35 (86,1 MB/s) - «www.giornodigloria.com/wingame/global/js/global.js?2020-07-02.22» сохранён [3424]
+
+--2020-07-02 18:30:35--  https://www.giornodigloria.com/_global/wingame/76/js/series.js?2020-07-02.22
+Повторное использование соединения с www.giornodigloria.com:443.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: нет данных [application/javascript]
+Сохранение в: «www.giornodigloria.com/_global/wingame/76/js/series.js?2020-07-02.22»
+
+          www.giorno     [<=>                    ]       0  --.-KB/s               www.giornodigloria.c     [ <=>                   ]   5,87K  --.-KB/s    за 0s      
+
+2020-07-02 18:30:35 (59,4 MB/s) - «www.giornodigloria.com/_global/wingame/76/js/series.js?2020-07-02.22» сохранён [6014]
+
+--2020-07-02 18:30:35--  https://www.giornodigloria.com/wingame/62/js/sweepstake.js?2020-07-02.22
+Повторное использование соединения с www.giornodigloria.com:443.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: нет данных [application/javascript]
+Сохранение в: «www.giornodigloria.com/wingame/62/js/sweepstake.js?2020-07-02.22»
+
+          www.giorno     [<=>                    ]       0  --.-KB/s               www.giornodigloria.c     [ <=>                   ]   2,76K  --.-KB/s    за 0s      
+
+2020-07-02 18:30:35 (171 MB/s) - «www.giornodigloria.com/wingame/62/js/sweepstake.js?2020-07-02.22» сохранён [2830]
+
+--2020-07-02 18:30:35--  https://www.giornodigloria.com/_static/_global/_supload/images/bg-samsunss10_2.jpg
+Повторное использование соединения с www.giornodigloria.com:443.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 96642 (94K) [image/jpeg]
+Сохранение в: «www.giornodigloria.com/_static/_global/_supload/images/bg-samsunss10_2.jpg»
+
+          www.giorno   0%[                       ]       0  --.-KB/s               www.giornodigloria.c 100%[======================>]  94,38K  --.-KB/s    за 0,009s  
+
+2020-07-02 18:30:35 (9,72 MB/s) - «www.giornodigloria.com/_static/_global/_supload/images/bg-samsunss10_2.jpg» сохранён [96642/96642]
+
+--2020-07-02 18:30:35--  https://www.giornodigloria.com/_static/_global/_supload/fonts/Poppins-ExtraLightItalic.woff2
+Повторное использование соединения с www.giornodigloria.com:443.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 56996 (56K) [font/woff2]
+Сохранение в: «www.giornodigloria.com/_static/_global/_supload/fonts/Poppins-ExtraLightItalic.woff2»
+
+          www.giorno   0%[                       ]       0  --.-KB/s               www.giornodigloria.c 100%[======================>]  55,66K  --.-KB/s    за 0,003s  
+
+2020-07-02 18:30:35 (17,0 MB/s) - «www.giornodigloria.com/_static/_global/_supload/fonts/Poppins-ExtraLightItalic.woff2» сохранён [56996/56996]
+
+--2020-07-02 18:30:35--  https://www.giornodigloria.com/_static/_global/_supload/fonts/Poppins-Regular.woff2
+Повторное использование соединения с www.giornodigloria.com:443.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 49444 (48K) [font/woff2]
+Сохранение в: «www.giornodigloria.com/_static/_global/_supload/fonts/Poppins-Regular.woff2»
+
+          www.giorno   0%[                       ]       0  --.-KB/s               www.giornodigloria.c 100%[======================>]  48,29K  --.-KB/s    за 0,005s  
+
+2020-07-02 18:30:35 (8,98 MB/s) - «www.giornodigloria.com/_static/_global/_supload/fonts/Poppins-Regular.woff2» сохранён [49444/49444]
+
+--2020-07-02 18:30:35--  https://www.giornodigloria.com/_static/_global/_supload/fonts/Poppins-SemiBoldItalic.woff2
+Повторное использование соединения с www.giornodigloria.com:443.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 56660 (55K) [font/woff2]
+Сохранение в: «www.giornodigloria.com/_static/_global/_supload/fonts/Poppins-SemiBoldItalic.woff2»
+
+          www.giorno   0%[                       ]       0  --.-KB/s               www.giornodigloria.c 100%[======================>]  55,33K  --.-KB/s    за 0,003s  
+
+2020-07-02 18:30:35 (16,4 MB/s) - «www.giornodigloria.com/_static/_global/_supload/fonts/Poppins-SemiBoldItalic.woff2» сохранён [56660/56660]
+
+--2020-07-02 18:30:35--  https://www.giornodigloria.com/_static/_global/_supload/fonts/Poppins-SemiBold.woff2
+Повторное использование соединения с www.giornodigloria.com:443.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 48892 (48K) [font/woff2]
+Сохранение в: «www.giornodigloria.com/_static/_global/_supload/fonts/Poppins-SemiBold.woff2»
+
+          www.giorno   0%[                       ]       0  --.-KB/s               www.giornodigloria.c 100%[======================>]  47,75K  --.-KB/s    за 0,003s  
+
+2020-07-02 18:30:35 (16,7 MB/s) - «www.giornodigloria.com/_static/_global/_supload/fonts/Poppins-SemiBold.woff2» сохранён [48892/48892]
+
+--2020-07-02 18:30:35--  https://www.giornodigloria.com/_static/_global/_supload/fonts/Poppins-MediumItalic.woff2
+Повторное использование соединения с www.giornodigloria.com:443.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 56640 (55K) [font/woff2]
+Сохранение в: «www.giornodigloria.com/_static/_global/_supload/fonts/Poppins-MediumItalic.woff2»
+
+          www.giorno   0%[                       ]       0  --.-KB/s               www.giornodigloria.c 100%[======================>]  55,31K  --.-KB/s    за 0,004s  
+
+2020-07-02 18:30:35 (14,1 MB/s) - «www.giornodigloria.com/_static/_global/_supload/fonts/Poppins-MediumItalic.woff2» сохранён [56640/56640]
+
+--2020-07-02 18:30:35--  https://www.giornodigloria.com/_static/_global/_supload/fonts/Poppins-ExtraBold.woff2
+Повторное использование соединения с www.giornodigloria.com:443.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 49368 (48K) [font/woff2]
+Сохранение в: «www.giornodigloria.com/_static/_global/_supload/fonts/Poppins-ExtraBold.woff2»
+
+          www.giorno   0%[                       ]       0  --.-KB/s               www.giornodigloria.c 100%[======================>]  48,21K  --.-KB/s    за 0,002s  
+
+2020-07-02 18:30:35 (21,8 MB/s) - «www.giornodigloria.com/_static/_global/_supload/fonts/Poppins-ExtraBold.woff2» сохранён [49368/49368]
+
+--2020-07-02 18:30:35--  https://www.giornodigloria.com/_static/_global/_supload/fonts/Poppins-Black.woff2
+Повторное использование соединения с www.giornodigloria.com:443.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 48100 (47K) [font/woff2]
+Сохранение в: «www.giornodigloria.com/_static/_global/_supload/fonts/Poppins-Black.woff2»
+
+          www.giorno   0%[                       ]       0  --.-KB/s               www.giornodigloria.c 100%[======================>]  46,97K  --.-KB/s    за 0,003s  
+
+2020-07-02 18:30:35 (13,2 MB/s) - «www.giornodigloria.com/_static/_global/_supload/fonts/Poppins-Black.woff2» сохранён [48100/48100]
+
+--2020-07-02 18:30:35--  https://www.giornodigloria.com/_static/_global/_supload/fonts/Poppins-ThinItalic.woff2
+Повторное использование соединения с www.giornodigloria.com:443.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 52928 (52K) [font/woff2]
+Сохранение в: «www.giornodigloria.com/_static/_global/_supload/fonts/Poppins-ThinItalic.woff2»
+
+          www.giorno   0%[                       ]       0  --.-KB/s               www.giornodigloria.c 100%[======================>]  51,69K  --.-KB/s    за 0,003s  
+
+2020-07-02 18:30:35 (14,7 MB/s) - «www.giornodigloria.com/_static/_global/_supload/fonts/Poppins-ThinItalic.woff2» сохранён [52928/52928]
+
+--2020-07-02 18:30:35--  https://www.giornodigloria.com/_static/_global/_supload/fonts/Poppins-ExtraBoldItalic.woff2
+Повторное использование соединения с www.giornodigloria.com:443.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 56296 (55K) [font/woff2]
+Сохранение в: «www.giornodigloria.com/_static/_global/_supload/fonts/Poppins-ExtraBoldItalic.woff2»
+
+          www.giorno   0%[                       ]       0  --.-KB/s               www.giornodigloria.c 100%[======================>]  54,98K  --.-KB/s    за 0,003s  
+
+2020-07-02 18:30:35 (15,8 MB/s) - «www.giornodigloria.com/_static/_global/_supload/fonts/Poppins-ExtraBoldItalic.woff2» сохранён [56296/56296]
+
+--2020-07-02 18:30:35--  https://www.giornodigloria.com/_static/_global/_supload/fonts/Poppins-LightItalic.woff2
+Повторное использование соединения с www.giornodigloria.com:443.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 57056 (56K) [font/woff2]
+Сохранение в: «www.giornodigloria.com/_static/_global/_supload/fonts/Poppins-LightItalic.woff2»
+
+          www.giorno   0%[                       ]       0  --.-KB/s               www.giornodigloria.c 100%[======================>]  55,72K  --.-KB/s    за 0,004s  
+
+2020-07-02 18:30:35 (13,1 MB/s) - «www.giornodigloria.com/_static/_global/_supload/fonts/Poppins-LightItalic.woff2» сохранён [57056/57056]
+
+--2020-07-02 18:30:35--  https://www.giornodigloria.com/_static/_global/_supload/fonts/Poppins-Bold.woff2
+Повторное использование соединения с www.giornodigloria.com:443.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 49128 (48K) [font/woff2]
+Сохранение в: «www.giornodigloria.com/_static/_global/_supload/fonts/Poppins-Bold.woff2»
+
+          www.giorno   0%[                       ]       0  --.-KB/s               www.giornodigloria.c 100%[======================>]  47,98K  --.-KB/s    за 0,003s  
+
+2020-07-02 18:30:35 (13,4 MB/s) - «www.giornodigloria.com/_static/_global/_supload/fonts/Poppins-Bold.woff2» сохранён [49128/49128]
+
+--2020-07-02 18:30:35--  https://www.giornodigloria.com/_static/_global/_supload/fonts/Poppins-Light.woff2
+Повторное использование соединения с www.giornodigloria.com:443.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 49356 (48K) [font/woff2]
+Сохранение в: «www.giornodigloria.com/_static/_global/_supload/fonts/Poppins-Light.woff2»
+
+          www.giorno   0%[                       ]       0  --.-KB/s               www.giornodigloria.c 100%[======================>]  48,20K  --.-KB/s    за 0,004s  
+
+2020-07-02 18:30:35 (12,5 MB/s) - «www.giornodigloria.com/_static/_global/_supload/fonts/Poppins-Light.woff2» сохранён [49356/49356]
+
+--2020-07-02 18:30:35--  https://www.giornodigloria.com/_static/_global/_supload/fonts/Poppins-Medium.woff2
+Повторное использование соединения с www.giornodigloria.com:443.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 49340 (48K) [font/woff2]
+Сохранение в: «www.giornodigloria.com/_static/_global/_supload/fonts/Poppins-Medium.woff2»
+
+          www.giorno   0%[                       ]       0  --.-KB/s               www.giornodigloria.c 100%[======================>]  48,18K  --.-KB/s    за 0,004s  
+
+2020-07-02 18:30:35 (11,9 MB/s) - «www.giornodigloria.com/_static/_global/_supload/fonts/Poppins-Medium.woff2» сохранён [49340/49340]
+
+--2020-07-02 18:30:35--  https://www.giornodigloria.com/_static/_global/_supload/fonts/Poppins-Italic.woff2
+Повторное использование соединения с www.giornodigloria.com:443.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 57072 (56K) [font/woff2]
+Сохранение в: «www.giornodigloria.com/_static/_global/_supload/fonts/Poppins-Italic.woff2»
+
+          www.giorno   0%[                       ]       0  --.-KB/s               www.giornodigloria.c 100%[======================>]  55,73K  --.-KB/s    за 0,001s  
+
+2020-07-02 18:30:35 (60,1 MB/s) - «www.giornodigloria.com/_static/_global/_supload/fonts/Poppins-Italic.woff2» сохранён [57072/57072]
+
+--2020-07-02 18:30:35--  https://www.giornodigloria.com/_static/_global/_supload/fonts/Poppins-ExtraLight.woff2
+Повторное использование соединения с www.giornodigloria.com:443.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 49460 (48K) [font/woff2]
+Сохранение в: «www.giornodigloria.com/_static/_global/_supload/fonts/Poppins-ExtraLight.woff2»
+
+          www.giorno   0%[                       ]       0  --.-KB/s               www.giornodigloria.c 100%[======================>]  48,30K  --.-KB/s    за 0,003s  
+
+2020-07-02 18:30:35 (13,9 MB/s) - «www.giornodigloria.com/_static/_global/_supload/fonts/Poppins-ExtraLight.woff2» сохранён [49460/49460]
+
+--2020-07-02 18:30:35--  https://www.giornodigloria.com/_static/_global/_supload/fonts/Poppins-BlackItalic.woff2
+Повторное использование соединения с www.giornodigloria.com:443.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 53300 (52K) [font/woff2]
+Сохранение в: «www.giornodigloria.com/_static/_global/_supload/fonts/Poppins-BlackItalic.woff2»
+
+          www.giorno   0%[                       ]       0  --.-KB/s               www.giornodigloria.c 100%[======================>]  52,05K  --.-KB/s    за 0s      
+
+2020-07-02 18:30:35 (140 MB/s) - «www.giornodigloria.com/_static/_global/_supload/fonts/Poppins-BlackItalic.woff2» сохранён [53300/53300]
+
+--2020-07-02 18:30:35--  https://www.giornodigloria.com/_static/_global/_supload/fonts/Poppins-BoldItalic.woff2
+Повторное использование соединения с www.giornodigloria.com:443.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 56320 (55K) [font/woff2]
+Сохранение в: «www.giornodigloria.com/_static/_global/_supload/fonts/Poppins-BoldItalic.woff2»
+
+          www.giorno   0%[                       ]       0  --.-KB/s               www.giornodigloria.c 100%[======================>]  55,00K  --.-KB/s    за 0,003s  
+
+2020-07-02 18:30:35 (18,1 MB/s) - «www.giornodigloria.com/_static/_global/_supload/fonts/Poppins-BoldItalic.woff2» сохранён [56320/56320]
+
+--2020-07-02 18:30:35--  https://www.giornodigloria.com/_static/_global/_supload/fonts/Poppins-Thin.woff2
+Повторное использование соединения с www.giornodigloria.com:443.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 45820 (45K) [font/woff2]
+Сохранение в: «www.giornodigloria.com/_static/_global/_supload/fonts/Poppins-Thin.woff2»
+
+          www.giorno   0%[                       ]       0  --.-KB/s               www.giornodigloria.c 100%[======================>]  44,75K  --.-KB/s    за 0s      
+
+2020-07-02 18:30:36 (155 MB/s) - «www.giornodigloria.com/_static/_global/_supload/fonts/Poppins-Thin.woff2» сохранён [45820/45820]
+
+--2020-07-02 18:30:36--  https://www.giornodigloria.com/_static/_global/_supload/images/img-samsungs10-phone-it.png
+Повторное использование соединения с www.giornodigloria.com:443.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 25748 (25K) [image/png]
+Сохранение в: «www.giornodigloria.com/_static/_global/_supload/images/img-samsungs10-phone-it.png»
+
+          www.giorno   0%[                       ]       0  --.-KB/s               www.giornodigloria.c 100%[======================>]  25,14K  --.-KB/s    за 0s      
+
+2020-07-02 18:30:36 (66,1 MB/s) - «www.giornodigloria.com/_static/_global/_supload/images/img-samsungs10-phone-it.png» сохранён [25748/25748]
+
+--2020-07-02 18:30:36--  https://www.giornodigloria.com/_static/_global/_supload/images/img-samsungs10-shadow-02.png
+Повторное использование соединения с www.giornodigloria.com:443.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 29857 (29K) [image/png]
+Сохранение в: «www.giornodigloria.com/_static/_global/_supload/images/img-samsungs10-shadow-02.png»
+
+          www.giorno   0%[                       ]       0  --.-KB/s               www.giornodigloria.c 100%[======================>]  29,16K  --.-KB/s    за 0s      
+
+2020-07-02 18:30:36 (212 MB/s) - «www.giornodigloria.com/_static/_global/_supload/images/img-samsungs10-shadow-02.png» сохранён [29857/29857]
+
+--2020-07-02 18:30:36--  https://www.giornodigloria.com/cgi-bin/global.pl?todo=show_page&ident=agb&wingame_pk=62&freetest_pk=217&partner_pk=577
+Повторное использование соединения с www.giornodigloria.com:443.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: нет данных [text/html]
+Сохранение в: «www.giornodigloria.com/cgi-bin/global.pl?todo=show_page&ident=agb&wingame_pk=62&freetest_pk=217&partner_pk=577.html»
+
+          www.giorno     [<=>                    ]       0  --.-KB/s               www.giornodigloria.c     [ <=>                   ]  14,50K  --.-KB/s    за 0s      
+
+2020-07-02 18:30:36 (153 MB/s) - «www.giornodigloria.com/cgi-bin/global.pl?todo=show_page&ident=agb&wingame_pk=62&freetest_pk=217&partner_pk=577.html» сохранён [14848]
+
+--2020-07-02 18:30:36--  https://www.giornodigloria.com/cgi-bin/global.pl?todo=show_page&ident=datenschutz&wingame_pk=62&freetest_pk=217&partner_pk=577
+Повторное использование соединения с www.giornodigloria.com:443.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: нет данных [text/html]
+Сохранение в: «www.giornodigloria.com/cgi-bin/global.pl?todo=show_page&ident=datenschutz&wingame_pk=62&freetest_pk=217&partner_pk=577.html»
+
+          www.giorno     [<=>                    ]       0  --.-KB/s               www.giornodigloria.c     [ <=>                   ]  20,28K  --.-KB/s    за 0s      
+
+2020-07-02 18:30:36 (299 MB/s) - «www.giornodigloria.com/cgi-bin/global.pl?todo=show_page&ident=datenschutz&wingame_pk=62&freetest_pk=217&partner_pk=577.html» сохранён [20762]
+
+--2020-07-02 18:30:36--  https://www.giornodigloria.com/cgi-bin/global.pl?todo=show_page&ident=impressum&wingame_pk=62&freetest_pk=217&partner_pk=577
+Повторное использование соединения с www.giornodigloria.com:443.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: нет данных [text/html]
+Сохранение в: «www.giornodigloria.com/cgi-bin/global.pl?todo=show_page&ident=impressum&wingame_pk=62&freetest_pk=217&partner_pk=577.html»
+
+          www.giorno     [<=>                    ]       0  --.-KB/s               www.giornodigloria.c     [ <=>                   ]   1,18K  --.-KB/s    за 0s      
+
+2020-07-02 18:30:36 (126 MB/s) - «www.giornodigloria.com/cgi-bin/global.pl?todo=show_page&ident=impressum&wingame_pk=62&freetest_pk=217&partner_pk=577.html» сохранён [1209]
+
+--2020-07-02 18:30:36--  https://www.giornodigloria.com/_global/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.eot?v=4.7.0
+Повторное использование соединения с www.giornodigloria.com:443.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 165742 (162K) [application/vnd.ms-fontobject]
+Сохранение в: «www.giornodigloria.com/_global/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.eot?v=4.7.0»
+
+          www.giorno   0%[                       ]       0  --.-KB/s               www.giornodigloria.c 100%[======================>] 161,86K  --.-KB/s    за 0,02s   
+
+2020-07-02 18:30:36 (9,39 MB/s) - «www.giornodigloria.com/_global/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.eot?v=4.7.0» сохранён [165742/165742]
+
+--2020-07-02 18:30:36--  https://www.giornodigloria.com/_global/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.eot?
+Повторное использование соединения с www.giornodigloria.com:443.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 165742 (162K) [application/vnd.ms-fontobject]
+Сохранение в: «www.giornodigloria.com/_global/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.eot?»
+
+          www.giorno   0%[                       ]       0  --.-KB/s               www.giornodigloria.c 100%[======================>] 161,86K  --.-KB/s    за 0,004s  
+
+2020-07-02 18:30:36 (40,3 MB/s) - «www.giornodigloria.com/_global/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.eot?» сохранён [165742/165742]
+
+--2020-07-02 18:30:36--  https://www.giornodigloria.com/_global/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0
+Повторное использование соединения с www.giornodigloria.com:443.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 77160 (75K) [application/octet-stream]
+Сохранение в: «www.giornodigloria.com/_global/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0»
+
+          www.giorno   0%[                       ]       0  --.-KB/s               www.giornodigloria.c 100%[======================>]  75,35K  --.-KB/s    за 0,004s  
+
+2020-07-02 18:30:36 (16,4 MB/s) - «www.giornodigloria.com/_global/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0» сохранён [77160/77160]
+
+--2020-07-02 18:30:36--  https://www.giornodigloria.com/_global/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff?v=4.7.0
+Повторное использование соединения с www.giornodigloria.com:443.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 98024 (96K) [application/font-woff]
+Сохранение в: «www.giornodigloria.com/_global/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff?v=4.7.0»
+
+          www.giorno   0%[                       ]       0  --.-KB/s               www.giornodigloria.c 100%[======================>]  95,73K  --.-KB/s    за 0,007s  
+
+2020-07-02 18:30:37 (14,0 MB/s) - «www.giornodigloria.com/_global/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff?v=4.7.0» сохранён [98024/98024]
+
+--2020-07-02 18:30:37--  https://www.giornodigloria.com/_global/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf?v=4.7.0
+Повторное использование соединения с www.giornodigloria.com:443.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 165548 (162K) [application/octet-stream]
+Сохранение в: «www.giornodigloria.com/_global/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf?v=4.7.0»
+
+          www.giorno   0%[                       ]       0  --.-KB/s               www.giornodigloria.c 100%[======================>] 161,67K  --.-KB/s    за 0,01s   
+
+2020-07-02 18:30:37 (12,4 MB/s) - «www.giornodigloria.com/_global/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf?v=4.7.0» сохранён [165548/165548]
+
+--2020-07-02 18:30:37--  https://www.giornodigloria.com/_global/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.svg?v=4.7.0
+Повторное использование соединения с www.giornodigloria.com:443.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 444379 (434K) [image/svg+xml]
+Сохранение в: «www.giornodigloria.com/_global/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.svg?v=4.7.0»
+
+          www.giorno   0%[                       ]       0  --.-KB/s               www.giornodigloria.c 100%[======================>] 433,96K  --.-KB/s    за 0,04s   
+
+2020-07-02 18:30:37 (11,4 MB/s) - «www.giornodigloria.com/_global/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.svg?v=4.7.0» сохранён [444379/444379]
+
+--2020-07-02 18:30:37--  https://www.giornodigloria.com/_global/wingame/54/images/progress_line_default.png
+Повторное использование соединения с www.giornodigloria.com:443.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 938 [image/png]
+Сохранение в: «www.giornodigloria.com/_global/wingame/54/images/progress_line_default.png»
+
+          www.giorno   0%[                       ]       0  --.-KB/s               www.giornodigloria.c 100%[======================>]     938  --.-KB/s    за 0s      
+
+2020-07-02 18:30:37 (226 MB/s) - «www.giornodigloria.com/_global/wingame/54/images/progress_line_default.png» сохранён [938/938]
+
+--2020-07-02 18:30:37--  https://www.giornodigloria.com/_global/images/no_thanks.png
+Повторное использование соединения с www.giornodigloria.com:443.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 3302 (3,2K) [image/png]
+Сохранение в: «www.giornodigloria.com/_global/images/no_thanks.png»
+
+          www.giorno   0%[                       ]       0  --.-KB/s               www.giornodigloria.c 100%[======================>]   3,22K  --.-KB/s    за 0s      
+
+2020-07-02 18:30:37 (609 MB/s) - «www.giornodigloria.com/_global/images/no_thanks.png» сохранён [3302/3302]
+
+--2020-07-02 18:30:37--  https://www.giornodigloria.com/_global/css/legal_docs.css
+Повторное использование соединения с www.giornodigloria.com:443.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: 452 [text/css]
+Сохранение в: «www.giornodigloria.com/_global/css/legal_docs.css»
+
+          www.giorno   0%[                       ]       0  --.-KB/s               www.giornodigloria.c 100%[======================>]     452  --.-KB/s    за 0s      
+
+2020-07-02 18:30:37 (112 MB/s) - «www.giornodigloria.com/_global/css/legal_docs.css» сохранён [452/452]
+
+--2020-07-02 18:30:37--  https://www.giornodigloria.com/_global/js/framework/MooTools-Core-1.6.0-compressed.js
+Повторное использование соединения с www.giornodigloria.com:443.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: нет данных [application/javascript]
+Сохранение в: «www.giornodigloria.com/_global/js/framework/MooTools-Core-1.6.0-compressed.js»
+
+          www.giorno     [<=>                    ]       0  --.-KB/s               www.giornodigloria.c     [ <=>                   ]  87,45K  --.-KB/s    за 0,006s  
+
+2020-07-02 18:30:37 (13,4 MB/s) - «www.giornodigloria.com/_global/js/framework/MooTools-Core-1.6.0-compressed.js» сохранён [89549]
+
+--2020-07-02 18:30:37--  https://www.giornodigloria.com/wingame/global/js/global.js
+Повторное использование соединения с www.giornodigloria.com:443.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: нет данных [application/javascript]
+Сохранение в: «www.giornodigloria.com/wingame/global/js/global.js»
+
+          www.giorno     [<=>                    ]       0  --.-KB/s               www.giornodigloria.c     [ <=>                   ]   3,34K  --.-KB/s    за 0s      
+
+2020-07-02 18:30:37 (301 MB/s) - «www.giornodigloria.com/wingame/global/js/global.js» сохранён [3424]
+
+--2020-07-02 18:30:37--  https://www.giornodigloria.com/
+Повторное использование соединения с www.giornodigloria.com:443.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: нет данных [text/html]
+Сохранение в: «www.giornodigloria.com/index.html»
+
+          www.giorno     [<=>                    ]       0  --.-KB/s               www.giornodigloria.c     [ <=>                   ]  44,99K  --.-KB/s    за 0s      
+
+2020-07-02 18:30:38 (98,5 MB/s) - «www.giornodigloria.com/index.html» сохранён [46070]
+
+--2020-07-02 18:30:38--  https://www.giornodigloria.com/cgi-bin/global.pl?todo=show_page&ident=agb&wingame_pk=62&freetest_pk=217
+Повторное использование соединения с www.giornodigloria.com:443.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: нет данных [text/html]
+Сохранение в: «www.giornodigloria.com/cgi-bin/global.pl?todo=show_page&ident=agb&wingame_pk=62&freetest_pk=217.html»
+
+          www.giorno     [<=>                    ]       0  --.-KB/s               www.giornodigloria.c     [ <=>                   ]  14,50K  --.-KB/s    за 0s      
+
+2020-07-02 18:30:38 (406 MB/s) - «www.giornodigloria.com/cgi-bin/global.pl?todo=show_page&ident=agb&wingame_pk=62&freetest_pk=217.html» сохранён [14848]
+
+--2020-07-02 18:30:38--  https://www.giornodigloria.com/cgi-bin/global.pl?todo=show_page&ident=datenschutz&wingame_pk=62&freetest_pk=217
+Повторное использование соединения с www.giornodigloria.com:443.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: нет данных [text/html]
+Сохранение в: «www.giornodigloria.com/cgi-bin/global.pl?todo=show_page&ident=datenschutz&wingame_pk=62&freetest_pk=217.html»
+
+          www.giorno     [<=>                    ]       0  --.-KB/s               www.giornodigloria.c     [ <=>                   ]  20,28K  --.-KB/s    за 0s      
+
+2020-07-02 18:30:38 (203 MB/s) - «www.giornodigloria.com/cgi-bin/global.pl?todo=show_page&ident=datenschutz&wingame_pk=62&freetest_pk=217.html» сохранён [20762]
+
+--2020-07-02 18:30:38--  https://www.giornodigloria.com/cgi-bin/global.pl?todo=show_page&ident=impressum&wingame_pk=62&freetest_pk=217
+Повторное использование соединения с www.giornodigloria.com:443.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: нет данных [text/html]
+Сохранение в: «www.giornodigloria.com/cgi-bin/global.pl?todo=show_page&ident=impressum&wingame_pk=62&freetest_pk=217.html»
+
+          www.giorno     [<=>                    ]       0  --.-KB/s               www.giornodigloria.c     [ <=>                   ]   1,18K  --.-KB/s    за 0s      
+
+2020-07-02 18:30:38 (59,6 MB/s) - «www.giornodigloria.com/cgi-bin/global.pl?todo=show_page&ident=impressum&wingame_pk=62&freetest_pk=217.html» сохранён [1209]
+
+ЗАВЕРШЕНО --2020-07-02 18:30:38--
+Общее время: 5,9s
+Загружено: 53 файлов, 2,7M за 0,3s (7,66 MB/s)
+Преобразование ссылок в www.giornodigloria.com/cgi-bin/global.pl?todo=show_page&ident=datenschutz&wingame_pk=62&freetest_pk=217&partner_pk=577.html… 3-0
+Преобразование ссылок в www.giornodigloria.com/cgi-bin/global.pl?todo=show_page&ident=agb&wingame_pk=62&freetest_pk=217&partner_pk=577.html… 4-0
+Преобразование ссылок в www.giornodigloria.com/index.html… 41-1
+Преобразование ссылок в www.giornodigloria.com/cgi-bin/global.pl?todo=show_page&ident=agb&wingame_pk=62&freetest_pk=217.html… 4-0
+Преобразование ссылок в www.giornodigloria.com/cgi-bin/global.pl?todo=show_page&ident=impressum&wingame_pk=62&freetest_pk=217.html… 3-0
+Преобразование ссылок в www.giornodigloria.com/cgi-bin/global.pl?todo=show_page&ident=datenschutz&wingame_pk=62&freetest_pk=217.html… 3-0
+Преобразование ссылок в www.giornodigloria.com/cgi-bin/wingame.pl?partner_pk=577.html… 41-1
+Преобразование ссылок в www.giornodigloria.com/cgi-bin/global.pl?todo=show_page&ident=impressum&wingame_pk=62&freetest_pk=217&partner_pk=577.html… 3-0
+Преобразование ссылок в www.giornodigloria.com/_global/fonts/font-awesome-4.7.0/css/font-awesome.min.css?2020-07-02.22.css… 6-0
+Преобразование ссылок в www.giornodigloria.com/_global/wingame/76/css/series.css?2020-07-02.22.css… 2-0
+Преобразование ссылок в www.giornodigloria.com/_global/wingame/default/css/foundation-xy-grid/foundation-custom.css?2020-07-02.22.css… действия не заданы.
+Преобразование ссылок в www.giornodigloria.com/wingame/62/css/sweepstake.css?2020-07-02.22.css… действия не заданы.
+Преобразование ссылок в www.giornodigloria.com/_global/css/legal_docs.css… действия не заданы.
+Ссылки преобразованы в файлы (13) за 0,01 секунд.
