@@ -1,7 +1,7 @@
 /* tablet */
 @media (min-width: 768px) {
   .container{
-    width: 760px;
+    width: 740px;
   }
   .text {
     padding: 50px;
@@ -21,6 +21,7 @@
     padding-top: 50px;
     padding-bottom: 50px;
   }
+
 }
 
 /* laptop */
@@ -49,6 +50,23 @@
   .numbers__row{
     flex-direction: row;
   }
+  .about-me__row{
+    flex-direction: row;
+  }
+  .about-me__foto{
+    width: 40%;
+  }
+  .about-me__content{
+    width: 40%;
+    padding-left: 50px;
+  }
+  .about-me p{
+    margin-top: 40px;
+  }
+  .need-project__container{
+    padding-top: 100px;
+    padding-bottom: 100px;
+  }
 }
 
 /* desctop */
@@ -68,7 +86,9 @@
 
 /* mobile only */
 @media (max-width: 767px) {
-  
+  .about-me__content{
+    padding-top: 20px;
+  }
 
  
 }
