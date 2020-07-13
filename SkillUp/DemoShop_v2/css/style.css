@@ -336,7 +336,7 @@ h2 {
 }
 .price {
   text-align: center;
-  padding: 20px 0;
+
 }
 .price h1 {
   font-weight: bold;
@@ -430,4 +430,30 @@ footer {
   font-size: 50px;
 }
 
+.device-counter{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 10px;
+}
+.device-countre__input{
+  width: 25%;
+  height: 27px;
+}
+.device-counter__buttons{
+  border: 1px solid white;
+  height: 25px;
+  width: 25px;
+  text-align: center;
+  line-height: 25px;
+  color: white;
+  font-size: 25px;
+}
+.device-counter__buttons:hover{
+  box-shadow:inset 0 0 10px white;
+  cursor: pointer;
+}
+.device-counter__buttons:active{
+  box-shadow:inset 0 0 10px rgb(18, 12, 58);
 
+}
