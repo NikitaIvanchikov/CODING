@@ -44,35 +44,57 @@ modal.addEventListener('click', function(e) {
 // scroll
 
 
-let modalSubscribe = document.querySelector('.subscribe');
+// let modalSubscribe = document.querySelector('.subscribe');
 
-window.addEventListener('scroll', function () {
-  let scrollPosition = +pageYOffset,
-  poupupInitiationPosition = +Math.round(document.documentElement.scrollHeight / 2),
-  divergens = scrollPosition - poupupInitiationPosition;
-  document.getElementById('scrollPosition').innerHTML = 'scroll pos ' + scrollPosition;
-  document.getElementById('initPos').innerHTML = 'poup init ' + poupupInitiationPosition;
-  if ( scrollPosition === poupupInitiationPosition) {
-    openModal(modalSubscribe);
-  }
-  if ((divergens > -5) && (divergens < 5)) {
-    openModal(modalSubscribe);
-  }
-});
+// window.addEventListener('scroll', function () {
+//   let scrollPosition = +pageYOffset,
+//   poupupInitiationPosition = +Math.round(document.documentElement.scrollHeight / 2),
+//   divergens = scrollPosition - poupupInitiationPosition;
+//   document.getElementById('scrollPosition').innerHTML = 'scroll pos ' + scrollPosition;
+//   document.getElementById('initPos').innerHTML = 'poup init ' + poupupInitiationPosition;
+//   if ( scrollPosition === poupupInitiationPosition) {
+//     openModal(modalSubscribe);
+//   }
+//   if ((divergens > -5) && (divergens < 5)) {
+//     openModal(modalSubscribe);
+//   }
+// });
 
-console.log('modalSubscribe =' + modalSubscribe);
+// console.log('modalSubscribe =' + modalSubscribe);
 
-for (let i =0; i < closeBtn.length; i++) {
-  closeBtn[i].addEventListener('click', function(e) {
-    if (e.target == closeBtn[i]) {
-      closeModal(modalSubscribe);
+// for (let i =0; i < closeBtn.length; i++) {
+//   closeBtn[i].addEventListener('click', function(e) {
+//     if (e.target == closeBtn[i]) {
+//       closeModal(modalSubscribe);
       
-    }
-  })
-  };
+//     }
+//   })
+//   };
 
-  modalSubscribe.addEventListener('click', function(e) {
-  if (e.target == modalSubscribe) {
-    closeModal(modalSubscribe);
-  }
+//   modalSubscribe.addEventListener('click', function(e) {
+//   if (e.target == modalSubscribe) {
+//     closeModal(modalSubscribe);
+//   }
+// })
+
+
+// mobile menu
+let mobileMenu = document.querySelector('.nav-mobile-menu'),
+    mainMenu = document.querySelector('.navigation');
+
+    mobileMenu.addEventListener('click', function() {
+      mobileMenu.classList.toggle('active-menu')
+      if (mobileMenu.classList.contains('active-menu')) {
+        mainMenu.classList.add('active-menu')
+      }else {
+        mainMenu.classList.remove('active-menu')
+      }
+    })
+
+
+$('#nav').onePageNav ({
+  currentClass: 'current'
 })
+
+
+

@@ -7,6 +7,7 @@
   <link rel="stylesheet" href="css/reset.css">
   <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/media.css">
 </head>
 <body>
   <header class="header">
@@ -16,25 +17,32 @@
           <a href="index.html"><img src="images/modest.png" alt=""></a>
         </div>
         <div class="col menu">
-          <nav>
-            <ul class="nav-menu">
-              <li><a href="">Home</a></li>
-              <li><a href="">About</a></li>
-              <li><a href="">Work</a></li>
-              <li><a href="">Team</a></li>
-              <li><a href="">Servises</a></li>
-              <li><a href="">Features</a></li>
-              <li><a href="">Contact</a></li>
+          <nav class="navigation hiden-menu">
+            <ul class="nav-menu" id="nav">
+              <li><a  href="">Home</a></li>
+              <li class="current"><a href="#about">About</a></li>
+              <li><a href="#work">Work</a></li>
+              <li><a href="#team">Team</a></li>
+              <li><a href="#servises">Servises</a></li>
+              <li><a href="#fitures">Features</a></li>
+              <li><a href="#contacts">Contact</a></li>
             </ul>
+            
           </nav>
+          
         </div>
         <div class="col">
-          <div class="search">
+          <!-- <div class="search">
             <form action="search">
               <input type="search" placeholder="Search">
               <button type="submit"><img src="images/search1.png" alt=""></button>
             </form>
-          </div>
+          </div> -->
+        </div>
+        <div class="nav-mobile-menu">
+          <span></span>
+          <span></span>
+          <span></span>
         </div>
       </div>
     </div>
@@ -54,7 +62,7 @@
         </div>
       </div>
     </section>
-    <section class="modest">
+    <section class="modest" id="about">
       <div class="container">
         <div class="section-header">
             <h1>We are modest</h1>
@@ -91,7 +99,7 @@
         </div>
       </div>
     </section>
-    <section class="team">
+    <section class="team" id="team">
       <div class="container">
         <div class="section-header">
           <h1>Meet the teem</h1>
@@ -164,7 +172,7 @@
         </div>
       </div>
     </section>
-    <section class="lovely-work">
+    <section class="lovely-work" id="work">
       <div class="container">
         <div class="section-header">
           <h1>Lovely Work</h1>
@@ -236,7 +244,7 @@
         </div>
       </div>
     </section>
-    <section class="what-we-do">
+    <section class="what-we-do" id="servises">
       <div class="container">
         <div class="section-header">
           <h1>What we do</h1>
@@ -279,7 +287,7 @@
             </div>
           </div>
 
-          <div class="fitures">
+          <div class="fitures" >
             <div class="icon">
               <img src="images/settings.png" alt="">
             </div>
@@ -318,7 +326,7 @@
         </div>
       </div>
     </section>
-    <section class="other-fitures">
+    <section class="other-fitures" id="fitures">
       <div class="container">
         <div class="section-header">
           <h1>Fitures</h1>
@@ -343,7 +351,7 @@
       </div>
       
     </section>
-    <section class="stay-in-touch">
+    <section class="stay-in-touch" id="contact"> 
       <div class="container">
         <div class="section-header">
           <h1>Fitures</h1>
@@ -400,10 +408,10 @@
   </div>
 
   <!-- test window -->
-  <div  class="scroll">
+  <!-- <div  class="scroll">
     <div id="scrollPosition"><span>Scroll pos</span></div>
     <div id="initPos"><span>poup init</span></div>
-  </div>
+  </div> -->
    <!-- test window -->
 
    <div class="poupup subscribe" >
@@ -426,7 +434,8 @@
     </div>
   </div>
 
-
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
+  <script src="script/jquery.nav.js"></script>
 <script src="script/script.js"></script>
 </body>
 </html>
