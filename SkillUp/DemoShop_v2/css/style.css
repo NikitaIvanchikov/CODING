@@ -430,30 +430,46 @@ footer {
   font-size: 50px;
 }
 
-.device-counter{
+.product-quantity{
   display: flex;
   justify-content: center;
   align-items: center;
   padding-bottom: 10px;
 }
-.device-countre__input{
+.product-quantity input{
   width: 25%;
   height: 27px;
+  text-align: center;
+  color: #2c71b8;
+  font-size: 21px;
+  
 }
-.device-counter__buttons{
+.quantity__button{
   border: 1px solid white;
   height: 25px;
   width: 25px;
   text-align: center;
-  line-height: 25px;
+  line-height: 1px;
+  background-color: inherit;
   color: white;
   font-size: 25px;
+  
 }
-.device-counter__buttons:hover{
+.quantity__button:hover{
   box-shadow:inset 0 0 10px white;
   cursor: pointer;
 }
-.device-counter__buttons:active{
+.quantity__button:active{
   box-shadow:inset 0 0 10px rgb(18, 12, 58);
 
+}
+
+.disabled {
+  background-color: white;
+  color: #2c71b8;
+  box-shadow:inset 0 0 15px #2c71b8;
+  border: #2c71b8;
+}
+.disabled:hover{
+  box-shadow:inset 0 0 15px #2c71b8;
 }
