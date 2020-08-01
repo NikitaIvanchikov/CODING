@@ -8,11 +8,13 @@
   }
   .work__row {
     flex-direction: row;
+    align-items: center;
     flex-wrap: wrap;
+    justify-content: center;
   }
-  .work__item {
+  /* .work__item {
     width: 50%;
-  }
+  } */
   .banner {
     padding-top: 50px;
     padding-bottom: 50px;
@@ -36,9 +38,7 @@
     font-size: 38px;
   }
   
-  .work__item {
-    width: 25%;
-  }
+  
   .banner {
     padding-top: 100px;
     padding-bottom: 100px;
@@ -67,6 +67,9 @@
     padding-top: 100px;
     padding-bottom: 100px;
   }
+  .footer__row {
+    flex-direction: row;
+  }
 }
 
 /* desctop */
@@ -86,9 +89,16 @@
 
 /* mobile only */
 @media (max-width: 767px) {
+  .footer{ 
+    padding: 0;
+  }
   .about-me__content{
     padding-top: 20px;
   }
-
- 
+  .footer___navigation {
+    padding-top: 15px;
+  }
+  .work__image img {
+    width: 320px;
+  }
 }
